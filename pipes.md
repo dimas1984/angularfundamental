@@ -20,7 +20,7 @@ Selanjutnya lakukan perubahan pada file template app.component.html menjadi sepe
 
 Pada kode program diatas kita menambahkan tanggal dibuatnya todo list dengan menampilkan `item.createdAt`
 
-jalankan server angular dan lihatlah hasilnya pada web browser.
+jalankan server angular dan lihatlah hasilnya pada web browser.(gunakan web browser yang biasa anda gunakan)
 
 ![pipes](diagrams/pipes3.png)
 
